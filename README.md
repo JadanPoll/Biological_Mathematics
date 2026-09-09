@@ -12,6 +12,9 @@ I will try to deliver a mechanism that doesn't intuit on mathematics but very di
 ## Positive Ansatz Machines
 
 ## Negative Ansatz Machines
+### Constructing Error Space
+
+### Atlas of Error Space
 
 ## Biological Mathematics
 
