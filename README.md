@@ -13,7 +13,7 @@ I will try to deliver a mechanism that doesn't intuit on mathematics but very di
 
 ## Negative Ansatz Machines
 
-### Insights into The Philisophical Illegality yet Rigorous Effectiveness of Algebra, Philosophically Speaking of course
+### Insights into The Philisophical Illegality yet Rigorous Effectiveness of Algebra.
 
 ### 1. Regretably elaborate method of detecting and certifying obstructions
 ### 2. Constructing Error Space
