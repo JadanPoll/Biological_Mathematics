@@ -33,5 +33,5 @@ First, what it means to evaluate the "Atlassian" of error space. Seems like a na
 
 ## Red Teaming
 
-
+## On Finding A Universal Base set of meta-heuristical skills for the ansatz and evaluating if machines can be taught and make use of that set within this system
 ## Potentially reformulating to Ansatz Machines
