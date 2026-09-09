@@ -5,6 +5,13 @@ If all the world were german, I would not have an intro. I would jump right into
 only poorly approximate some of their 19th and 20th century best and intuitive minds.
 
 
+## Positive Ansatz Machines
+
+## Negative Ansatz Machines
+
 ## Biological Mathematics
+
+## Red Teaming
+
 
 ## Potentially reformulating to Ansatz Machines
