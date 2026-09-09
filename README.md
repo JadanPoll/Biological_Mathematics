@@ -13,6 +13,8 @@ I will try to deliver a mechanism that doesn't intuit on mathematics but very di
 
 ## Negative Ansatz Machines
 
+### Insights into Algebra and its illegal philosophical methods
+
 ### 1. Regretably elaborate method of detecting and certifying obstructions
 ### 2. Constructing Error Space
 
