@@ -15,7 +15,7 @@ I will try to deliver a mechanism that doesn't intuit on mathematics but very di
 ### 1. Constructing Error Space
 
 ### 2. Atlassians of Error Space
-What it means to evaluate the "Atlassian" of error space. Seems like a natural term to us so that's the term I will use.
+First, what it means to evaluate the "Atlassian" of error space. Seems like a natural term to us so that's the term I will use.
 ## Biological Mathematics
 
 
