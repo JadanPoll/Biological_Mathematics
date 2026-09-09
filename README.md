@@ -7,7 +7,7 @@ It just is. I speak English, so I couldn't do you a satisfactory explanation of 
 you may come up with your own definition.
 
 I really hope to deliver a mechanical best mind. I can however hope to give a toy demonstration of the mechanical intuition. 
-Turings justification of the mechanical intelligence is not that they would think like humans but that they would think, yet think differently. 
+Turings justification of the mechanical intelligence is not that they would think like humans but that they would think, yet think differently.  
 I will try to deliver a mechanism that doesn't intuit like humans but intuit differently, in such a rich database like way that no human could possibly do.
 ## Positive Ansatz Machines
 
