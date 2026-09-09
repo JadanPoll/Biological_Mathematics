@@ -6,7 +6,7 @@ thing that could only poorly approximate German's 20th and 19th century best and
 It just is. I speak English, so I couldn't do you a satisfactory explanation of this word. I can however give you a few examples and hope that 
 you may come up with your own definition.
 
-I really hope to deliver a mechanical best mind. I can however hope to give a toy demonstration of the intuition.
+I really hope to deliver a mechanical best mind. I can however hope to give a toy demonstration of the mechanical intuition.
 
 ## Positive Ansatz Machines
 
