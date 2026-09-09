@@ -15,6 +15,9 @@ I will try to deliver a mechanism that doesn't intuit on mathematics but very di
 
 ### Insights into The Philisophical Illegality yet Rigorous Effectiveness of Algebra.
 
+
+### Insights from the history of ALgebra and Polynomials Leading up to Galois theory
+
 ### 1. Regretably elaborate method of detecting and certifying obstructions
 ### 2. Constructing Error Space
 
