@@ -6,7 +6,7 @@ thing that could only poorly approximate German's 20th and 19th century best and
 It just is. I speak English, so I couldn't do you a satisfactory explanation of this word. I can however give you a few examples and hope that 
 you may come up with your own definition.
 
-I however hope to give a conceivable demonstration of the mechanical intuition. 
+I hope to give a conceivable demonstration of the mechanical intuition for mathematics.
 Turings justification of the mechanical intelligence is not that they would think like humans but that they would think, yet think differently. 
 I will try to deliver a mechanism that doesn't intuit like humans but intuit differently, in such a rich database like way that no human could possibly do.
 ## Positive Ansatz Machines
