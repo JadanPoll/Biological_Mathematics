@@ -16,7 +16,7 @@ I will try to deliver a mechanism that doesn't intuit on mathematics but very di
 ## Biological Mathematics
 
 
-## Reasoning about the Lookup Table Objection 
+## Reasoning about the lookup table objection arguments 
 
 ## Red Teaming
 
