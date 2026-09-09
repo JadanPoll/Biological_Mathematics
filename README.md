@@ -7,7 +7,7 @@ It just is. I speak English, so I couldn't do you a satisfactory explanation of 
 you may come up with your own definition.
 
 I hope to give a conceivable demonstration of the mechanical intuition for mathematics.
-Turings justification of the mechanical intelligence is not that they would think,but possibly not like humans. That they would be different, hence think differently. 
+Turings justification of the mechanical intelligence is not that they would think but possibly not like humans. That they would be different, hence think differently. 
 I will try to deliver a mechanism that doesn't intuit like humans but intuit differently, in such a rich database like way that no human could possibly do.
 ## Positive Ansatz Machines
 
