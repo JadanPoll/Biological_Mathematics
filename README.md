@@ -12,9 +12,11 @@ I will try to deliver a mechanism that doesn't intuit on mathematics but very di
 ## Positive Ansatz Machines
 
 ## Negative Ansatz Machines
-### 1. Constructing Error Space
 
-### 2. Atlassians of Error Space
+### 1. Regretably elaborate method of detecting and certifying obstructions
+### 2. Constructing Error Space
+
+### 3. Atlassians of Error Space
 First, what it means to evaluate the "Atlassian" of error space. Seems like a natural term to us so that's the term I will use.
 ## Biological Mathematics
 
